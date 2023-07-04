@@ -72,7 +72,7 @@ html{
 nav.sticky{
   background: crimson;
   color: #fff;
-  height: 80px;
+  height: 70px;
 }
 nav.sticky a{
   color: #fff;
@@ -92,7 +92,7 @@ nav.sticky a:hover{
 .navbar .navbar-container{
   display: flex;
   justify-content: space-between;
-  height: 80px;
+  height: 70px;
   align-items: center;
   
 }
@@ -860,7 +860,7 @@ div.cart.showCart{
    display: block;
    position: relative;
    width: 100%;
-    height: 80px;
+   height: 70px;
    padding: auto;
    
   }
